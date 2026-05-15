@@ -35,4 +35,6 @@ The dashboard helps identify factors affecting employee turnover such as:
 
 ---
 
+## Dashboard Preview
 
+![Dashboard]()
