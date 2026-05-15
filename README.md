@@ -37,4 +37,4 @@ The dashboard helps identify factors affecting employee turnover such as:
 
 ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/sakibwathare18/HR-Attrition-Analytics-Dashboard/blob/main/HR_Dashboard.png?raw=true)
